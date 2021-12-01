@@ -19,4 +19,4 @@ You will behave like the project leader
 2. Clone the project from the teachers URL (do not clone this URL, wait for the teacher to give you the right one).
 3. Update your file by adding more words.
 4. Commit your changes and push to master.
-5. Wait for the teacher to merge and oyu will see your file in sync with the rest of the class.
+5. Wait for the teacher to merge and you will see your file in sync with the rest of the class.
